@@ -1,2 +1,2 @@
 <?php
-echo "Changes done by cloud";
+echo "demo cloud app";
